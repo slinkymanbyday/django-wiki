@@ -20,6 +20,15 @@ Changed
 * Update to Markdown >= 3 :url-issue:`920` (Don Bowman)
 
 
+0.4.5
+-----
+
+Fixed
+~~~~~
+
+* Django admin error when uploading images: Column 'revision_number' cannot be null :url-issue:`950` (Benjamin Bach)
+
+
 0.4.4
 -----
 
