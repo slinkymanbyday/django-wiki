@@ -30,7 +30,7 @@ install_requirements = [
     "django-nyt>=1.1.5,<1.2",
     "django-mptt>=0.9,<0.10",
     "django-sekizai>=0.10",
-    "sorl-thumbnail>=12,<13",
+    "sorl-thumbnail>=12.6.0,<13",
     "Markdown>=3.1,<3.2.0"
 ]
 
